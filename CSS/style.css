@@ -1,0 +1,99 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+body{
+    margin:0%;
+    background-image: url(https://aluguelgramado.com.br/wp-content/uploads/2018/10/cidade-07.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    width: auto;
+    height: 60px;
+    background-color:#f1c677;;
+    padding: 10px 100px;
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+    font-style: italic;
+    color: white;
+}
+p{
+    margin: 30px;
+    width: auto;
+    height: 60px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 125%;
+    color: white;
+    text-align: center;
+    
+}
+.itens_curiosidades {
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 125%;
+    color: white;
+    text-align: center;
+    list-style:none;
+    
+    
+    
+}
+.video{
+    text-align: center;
+   
+}
+.curiosidade_titulo{
+    width: 100%;
+    height:70px;
+    font-family: 'Lobster Two', sans-serif; 
+    font-size: 180%;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    margin-top: 10px;
+    
+}
+.midiasocial{
+    text-align: center;
+    padding: 20px;
+    
+}
+.icone{
+    margin: 80px 20px 50px 50px;
+    width: 70px;
+    height: 70px;  
+}
+.curiosidade{
+    background-color: #f1c677cb;
+    width: 1080px;
+    margin: 0 auto ;
+    padding: 20px;
+    margin-top: 30px;
+
+    
+}
+    
+   
+
+    
+
+
+    
+
+
+
+
+    
+    
+
+
+
+    
+
+
+
+
+
+
